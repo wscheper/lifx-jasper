@@ -2,7 +2,7 @@ import re
 import lifx
 
 # Jasper Interface
-WORDS = ["ON", "OFF", "ENABLE", "DISABLE", "TOGGLE", "SWITCH", LIGHTS", "LIGHT", "DIM", "BREATHE"]
+WORDS = ["ON", "OFF", "ENABLE", "DISABLE", "TOGGLE", "SWITCH", "LIGHTS", "LIGHT", "DIM", "BREATHE"]
 
 # Execute this module when it involves something with "light"
 def isValid(text):
