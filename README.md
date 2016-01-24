@@ -1,3 +1,7 @@
+Requires the use of the [LIFX-API](https://github.com/wscheper/LIFX-API.git)
+
+# Original Readme
+
 # lifx-jasper
 lifx-jasper is a [Jasper](http://jasperproject.github.io/) module built to control all of your LIFX lights using your voice.
 
